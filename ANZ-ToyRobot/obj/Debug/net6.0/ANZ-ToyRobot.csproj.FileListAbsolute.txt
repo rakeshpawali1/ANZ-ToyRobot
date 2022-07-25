@@ -1,0 +1,15 @@
+/Users/rakeshpawali/RiderProjects/ANZ-ToyRobot/ANZ-ToyRobot/bin/Debug/net6.0/ANZ-ToyRobot
+/Users/rakeshpawali/RiderProjects/ANZ-ToyRobot/ANZ-ToyRobot/bin/Debug/net6.0/ANZ-ToyRobot.deps.json
+/Users/rakeshpawali/RiderProjects/ANZ-ToyRobot/ANZ-ToyRobot/bin/Debug/net6.0/ANZ-ToyRobot.runtimeconfig.json
+/Users/rakeshpawali/RiderProjects/ANZ-ToyRobot/ANZ-ToyRobot/bin/Debug/net6.0/ANZ-ToyRobot.dll
+/Users/rakeshpawali/RiderProjects/ANZ-ToyRobot/ANZ-ToyRobot/bin/Debug/net6.0/ANZ-ToyRobot.pdb
+/Users/rakeshpawali/RiderProjects/ANZ-ToyRobot/ANZ-ToyRobot/obj/Debug/net6.0/ANZ-ToyRobot.csproj.AssemblyReference.cache
+/Users/rakeshpawali/RiderProjects/ANZ-ToyRobot/ANZ-ToyRobot/obj/Debug/net6.0/ANZ-ToyRobot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rakeshpawali/RiderProjects/ANZ-ToyRobot/ANZ-ToyRobot/obj/Debug/net6.0/ANZ-ToyRobot.AssemblyInfoInputs.cache
+/Users/rakeshpawali/RiderProjects/ANZ-ToyRobot/ANZ-ToyRobot/obj/Debug/net6.0/ANZ-ToyRobot.AssemblyInfo.cs
+/Users/rakeshpawali/RiderProjects/ANZ-ToyRobot/ANZ-ToyRobot/obj/Debug/net6.0/ANZ-ToyRobot.csproj.CoreCompileInputs.cache
+/Users/rakeshpawali/RiderProjects/ANZ-ToyRobot/ANZ-ToyRobot/obj/Debug/net6.0/ANZ-ToyRobot.dll
+/Users/rakeshpawali/RiderProjects/ANZ-ToyRobot/ANZ-ToyRobot/obj/Debug/net6.0/refint/ANZ-ToyRobot.dll
+/Users/rakeshpawali/RiderProjects/ANZ-ToyRobot/ANZ-ToyRobot/obj/Debug/net6.0/ANZ-ToyRobot.pdb
+/Users/rakeshpawali/RiderProjects/ANZ-ToyRobot/ANZ-ToyRobot/obj/Debug/net6.0/ANZ-ToyRobot.genruntimeconfig.cache
+/Users/rakeshpawali/RiderProjects/ANZ-ToyRobot/ANZ-ToyRobot/obj/Debug/net6.0/ref/ANZ-ToyRobot.dll
