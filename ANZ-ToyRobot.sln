@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ANZ-ToyRobot", "ANZ-ToyRobot\ANZ-ToyRobot.csproj", "{499366A8-C690-483D-8151-849CE3EFFA15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyRobotTest", "ToyRobotTest\ToyRobotTest.csproj", "{8D31C793-EF28-40CE-A74C-036A05140198}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ANZ-ToyRobotTest", "ANZ-ToyRobotTest\ANZ-ToyRobotTest.csproj", "{8D31C793-EF28-40CE-A74C-036A05140198}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -3901,11 +3901,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rakeshpawali/RiderProjects/ANZ-ToyRobot/ToyRobotTest/ToyRobotTest.csproj",
-      "projectName": "ToyRobotTest",
-      "projectPath": "/Users/rakeshpawali/RiderProjects/ANZ-ToyRobot/ToyRobotTest/ToyRobotTest.csproj",
+      "projectUniqueName": "/Users/rakeshpawali/RiderProjects/ANZ-ToyRobot/ANZ-ToyRobotTest/ANZ-ToyRobotTest.csproj",
+      "projectName": "ANZ-ToyRobotTest",
+      "projectPath": "/Users/rakeshpawali/RiderProjects/ANZ-ToyRobot/ANZ-ToyRobotTest/ANZ-ToyRobotTest.csproj",
       "packagesPath": "/Users/rakeshpawali/.nuget/packages/",
-      "outputPath": "/Users/rakeshpawali/RiderProjects/ANZ-ToyRobot/ToyRobotTest/obj/",
+      "outputPath": "/Users/rakeshpawali/RiderProjects/ANZ-ToyRobot/ANZ-ToyRobotTest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rakeshpawali/.nuget/NuGet/NuGet.Config"
